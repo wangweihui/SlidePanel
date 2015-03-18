@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<style type="text/css">
+			body
+			{
+				margin: 0;
+				padding: 0;
+				/*background: #F0E68C;*/
+			}
+			#secondP
+			{
+				background: #FFE5B4;
+				/*display: none;*/
+				/*visibility: hidden;*/
+			}
+			.backforTitleBar
+			{
+				background:-moz-linear-gradient(to bottom,#FF4D40,#A52A2A);
+				background: -ms-linear-gradient(to bottom,#FF4D40,#A52A2A);
+				background: -webkit-linear-gradient(to bottom,#FF4D40,#A52A2A);
+				background: linear-gradient(to bottom,#FF4D40,#A52A2A);
+				color: #fff;
+				padding: 5px;
+				border-radius: 5px;
+				width: 100%;
+			}
+			.titleBar
+			{
+				
+			}
+			.absoluteBar
+			{
+				position: fixed;
+				display: block;
+			}
+			.hiddenBar
+			{
+				/*display: none;*/
+				visibility: hidden;
+			}
+			.visibleBar
+			{
+				visibility: visible;
+			}
+			#mainDiv
+			{
+				position: absolute;
+				top: 50px;
+				left: 30px;
+			}
+			#topSection
+			{
+				width: 100%;
+				height: 50px;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="topSection">
+			绯红色，是一种颜色（英文：Crimson），是红色颜色之一，是红带蓝的色彩，但一般当红色形容居多，传统上，这是血液的颜色。
+		</div>
+		<div id="mainDiv">
+			<div class="backforTitleBar titleBar" id="bar-0">
+			绯红色
+			</div>
+			<p>
+				绯红色，是一种颜色（英文：Crimson），是红色颜色之一，是红带蓝的色彩，但一般当红色形容居多，传统上，这是血液的颜色。
+	
+				绯红色英文之语源是从梵语krmi-ja得来，“由虫生产的红色染料”的意思。
+	
+				在美国，哈佛大学和阿拉巴马大学的校队以绯红色著名，哈佛的校报叫做The Harvard Crimson，
+				阿拉巴马大学的校报叫做the Crimson White（Red 177, Blue 0 Green 33。其他还有很多大学也喜欢用绯红作为学校的主色调。
+				绯红色，是一种颜色（英文：Crimson），是红色颜色之一，是红带蓝的色彩，但一般当红色形容居多，传统上，这是血液的颜色。
+	
+				绯红色英文之语源是从梵语krmi-ja得来，“由虫生产的红色染料”的意思。
+	
+				在美国，哈佛大学和阿拉巴马大学的校队以绯红色著名，哈佛的校报叫做The Harvard Crimson，
+				阿拉巴马大学的校报叫做the Crimson White（Red 177, Blue 0 Green 33。其他还有很多大学也喜欢用绯红作为学校的主色调。
+			</p>
+			<div class="backforTitleBar titleBar" id="bar-1">
+				免费的Crimson
+			</div>
+			<p id="secondP">
+				用免费的Crimson <wbr>Editor、PSPad替换UltraEditUltraEdit确实是一个相当好的软件。
+				至今想起它的列模式、Hex edit、脚本等，仍不禁赞叹。虽然我不编程，但把它的function list用作文本文件的目录，也方便得很。
+	　　			但UltraEdit是要收费的——这很正常。
+	　　			常见到网上有人询问免费的替代品，就总结一下吧。
+	　　			因为每个人关注的UE功能不同，所以替换的方案也会不同。
+	　　			我现在用gVIM用免费的Crimson <wbr>Editor、PSPad替换UltraEdit来代替。从正则替换等编辑功能讲，gVIM只强不弱；
+				
+			</p>
+			<div class="backforTitleBar titleBar" id="bar-2">
+				VIM 支持的语法加亮
+			</div>
+			<p>
+				支持的语法加亮，也只多不少。在二进制方面要比UE难用很多。列编辑功能，相差可能不大。
+				VIM的列编辑基本够用；但据说UE更强，“ultraedit 的列编辑基本上相当于把行列置换，所以可以做很多变态的事情”。
+				从我应用角度看，常用的列编辑，gVIM也可以实现（列编辑一项，鸣谢路过兄提醒，和newsmth vim版网友补充）；
+				偶尔hex edit，用xvi32就好了。
+				支持的语法加亮，也只多不少。在二进制方面要比UE难用很多。列编辑功能，相差可能不大。
+				VIM的列编辑基本够用；但据说UE更强，“ultraedit 的列编辑基本上相当于把行列置换，所以可以做很多变态的事情”。
+				从我应用角度看，常用的列编辑，gVIM也可以实现（列编辑一项，鸣谢路过兄提醒，和newsmth vim版网友补充）；
+				偶尔hex edit，用xvi32就好了。
+				支持的语法加亮，也只多不少。在二进制方面要比UE难用很多。列编辑功能，相差可能不大。
+				VIM的列编辑基本够用；但据说UE更强，“ultraedit 的列编辑基本上相当于把行列置换，所以可以做很多变态的事情”。
+				从我应用角度看，常用的列编辑，gVIM也可以实现（列编辑一项，鸣谢路过兄提醒，和newsmth vim版网友补充）；
+				偶尔hex edit，用xvi32就好了。
+				支持的语法加亮，也只多不少。在二进制方面要比UE难用很多。列编辑功能，相差可能不大。
+				VIM的列编辑基本够用；但据说UE更强，“ultraedit 的列编辑基本上相当于把行列置换，所以可以做很多变态的事情”。
+				从我应用角度看，常用的列编辑，gVIM也可以实现（列编辑一项，鸣谢路过兄提醒，和newsmth vim版网友补充）；
+				偶尔hex edit，用xvi32就好了。
+			</p>
+		</div>
+		
+		<script type="text/javascript">
+		
+			var titleHeight;
+			var titleCloneIndex = 0;
+			window.onload = function()
+			{
+				var bars = document.getElementsByClassName('titleBar');
+				titleHeight = bars[0].scrollHeight;
+			};
+			window.onscroll = function()
+			{
+				var bars = document.getElementsByClassName('titleBar');
+				var lenBar = bars.length;
+				for(var i=0;i<lenBar;i++)
+				{
+					var bar = bars[i];
+					var barOffset = bar.offsetTop;
+					var winsy = window.scrollY;
+//					var baroffWin = barOffset-winsy;
+					var baroffWin = getElementViewTop(bar);
+					var bId = bar.id;
+					var idArr = bId.split('-');
+					var barIndex = idArr[1];
+					var cBar;
+					if(baroffWin<barIndex*titleHeight||baroffWin==barIndex*titleHeight)
+					{
+						if(document.getElementById('cloneBar-'+barIndex))
+						{
+							cBar = document.getElementById('cloneBar-'+barIndex);
+							var cName = cBar.className;
+							if(cName.indexOf('hiddenBar')>-1)
+							{
+								cName = cName.replace('hiddenBar','visibleBar');
+							}
+							cBar.className = cName;
+						}
+						else
+						{
+							cBar = bar.cloneNode(true);
+							cBar.id = 'cloneBar-'+barIndex;
+							cBar.className = 'backforTitleBar absoluteBar visibleBar';
+							cBar.style.top = barIndex*titleHeight+'px';
+							var mainBody = document.getElementById('mainDiv');
+							mainBody.appendChild(cBar);
+//							var body = document.getElementsByTagName('body');
+//							body[0].appendChild(cBar);
+						}
+						var cName = bar.className;
+						if(cName.indexOf('visibleBar')>-1)
+						{
+							cName = cName.replace('visibleBar','hiddenBar');
+						}
+						bar.className = cName;
+					}
+					else
+					{
+						if(document.getElementById('cloneBar-'+barIndex))
+						{
+							clBar = document.getElementById('cloneBar-'+barIndex);
+							var cName = clBar.className;
+							if(cName.indexOf('visibleBar')>-1)
+							{
+								cName = cName.replace('visibleBar','hiddenBar');
+							}
+							clBar.className = cName;
+						}
+						if(document.getElementById('bar-'+barIndex))
+						{
+							var bar = document.getElementById('bar-'+barIndex);
+							
+							var cName = bar.className;
+							if(cName.indexOf('hiddenBar')>-1)
+							{
+								cName = cName.replace('hiddenBar','visibleBar');
+							}
+
+//							console.log(bar.id+' cName == '+cName);
+							bar.className = cName;
+						}
+					}
+				}
+			}
+			function getElementViewTop(element)
+			{
+				var actualTop = element.offsetTop;
+				var current = element.offsetParent;
+				
+				while(current!=null)
+				{
+					actualTop += current.offsetTop;
+					current = current.offsetParent;
+				}
+				
+				var elementScrollTop = document.body.scrollTop||document.documentElement.scrollTop;
+				return actualTop-elementScrollTop;
+			}
+		</script>
+	</body>
+</html>
